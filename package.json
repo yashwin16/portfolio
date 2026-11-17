@@ -1,0 +1,14 @@
+{
+  "name": "yashwin-sharma-portfolio",
+  "version": "1.0.0",
+  "description": "Interactive 3D WebGL/WebGPU Portfolio of Yashwin Sharma — Frontend Developer | React.js & Next.js Specialist",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "vite": "^8.3.8"
+  }
+}
